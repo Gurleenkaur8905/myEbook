@@ -4,8 +4,8 @@ mongoconnect();
 const cors = require('cors')
 server = express()
 
-server.use(express.json())
 server.use(cors())
+server.use(express.json())
 
 server.use('/auth', require('./routes/auth'))
 server.use('/categories', require('./routes/category'))
