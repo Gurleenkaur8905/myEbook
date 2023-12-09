@@ -1,9 +1,9 @@
 const express = require('express')
 const mongoconnect = require('./db.js')
 mongoconnect();
-const cors = require("cors");
+//const cors = require("cors");
 server = express();
-server.use(cors());
+//server.use(cors());
 server.use(express.json())
 
 server.use('/auth', require('./routes/auth'))
