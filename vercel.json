@@ -12,19 +12,19 @@
             "dest": "/index.js"
         },
         {
-            "src": "/auth",
+            "src": "/auth/(.*)",
             "dest": "/index.js"
         },
         {
-            "src": "/categories",
+            "src": "/categories/(.*)",
             "dest": "/index.js"
         },
         {
-            "src": "/books",
+            "src": "/books/(.*)",
             "dest": "/index.js"
         },
         {
-            "src": "/userlibrary",
+            "src": "/userlibrary/(.*)",
             "dest": "/index.js"
         }
     ]
