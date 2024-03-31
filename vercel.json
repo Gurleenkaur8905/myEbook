@@ -32,9 +32,28 @@
             "dest": "build/index.html"
         },
         {
+            "src": "/FieldGenre",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/Book",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/Useraccount",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/signup",
+            "dest": "build/index.html"
+        },
+        {
+            "src": "/login",
+            "dest": "build/index.html"
+        },
+        {
             "src": "/(.+)",
             "dest": "build/$1"
         }
     ]
-
 }
