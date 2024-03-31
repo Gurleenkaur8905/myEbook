@@ -14,11 +14,8 @@ myEbook website used to read and download large number of ebooks.Provide authent
 
 ## Tech Stack
 Frontend: React,Context-Api,React-hooks
-
 Backend: Node,Express,JWT
-
 Database: MongoDB
-
 Deployed on: Vercel
 
 ## Contributing
@@ -30,4 +27,4 @@ Contributions are encouraged! If you come across any issues, bugs, or have sugge
  [Gurleenkaur8905](https://github.com/Gurleenkaur8905)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
