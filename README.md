@@ -13,10 +13,10 @@ myEbook website used to read and download large number of ebooks.Provide authent
 * Ensures compatibility and usability across all devices.
 
 ## Tech Stack
-Frontend: React,Context-Api,React-hooks
-Backend: Node,Express,JWT
-Database: MongoDB
-Deployed on: Vercel
+* Frontend: React,Context-Api,React-hooks
+* Backend: Node,Express,JWT
+* Database: MongoDB
+* Deployed on: Vercel
 
 ## Contributing
 
